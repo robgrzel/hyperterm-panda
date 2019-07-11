@@ -1,9 +1,9 @@
 {
-  "name": "hyperterm-panda",
-  "version": "0.0.2",
+  "name": "hyperterm-rgr",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siamak/hyperterm-panda.git"
+    "url": "git+https://github.com/robgrzel/hyperterm-rgr.git"
   },
   "keywords": [
     "hyperterm"
